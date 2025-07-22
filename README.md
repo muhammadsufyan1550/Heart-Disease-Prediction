@@ -29,3 +29,21 @@ Predict the presence of heart disease in patients using machine learning based o
 - **Confusion Matrix**:
 - [[23 9]
 [ 7 21]]
+
+---
+
+### 🔍 Feature Importance (Top Coefficients):
+| Feature | Impact |
+|---------|--------|
+| `sex`   | +1.5   |
+| `ca`    | +1.2   |
+| `thal`  | +0.8   |
+| `fbs`   | −0.8   |
+| `exang` | +0.6   |
+
+> Features like age and cholesterol had minimal influence
+
+---
+
+### 🚀 Tools Used:
+- Python, Pandas, Matplotlib, Seaborn, scikit-learn, Google Colab
