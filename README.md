@@ -27,3 +27,5 @@ Predict the presence of heart disease in patients using machine learning based o
 - **Recall**: 75%
 - **ROC AUC Score**: 0.837
 - **Confusion Matrix**:
+- [[23 9]
+[ 7 21]]
