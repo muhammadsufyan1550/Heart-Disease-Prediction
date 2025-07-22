@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction - Machine Learning Project
+#  Heart Disease Prediction - Machine Learning Project
 
 ### 📌 Objective:
 Predict the presence of heart disease in patients using machine learning based on 13 clinical features.
