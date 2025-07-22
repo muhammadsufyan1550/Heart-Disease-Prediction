@@ -6,7 +6,7 @@ Predict the presence of heart disease in patients using machine learning based o
 ---
 
 ### 📁 Dataset:
-- **Source**: UCI Heart Disease Dataset
+- **Source**: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **Rows**: 297
 - **Features**: 13 + 1 target (`target`)
 - **Target**: 1 = heart disease, 0 = no disease
